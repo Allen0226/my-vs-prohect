@@ -1,1 +1,1 @@
-# my-vs-proect
+# my-vs-project
